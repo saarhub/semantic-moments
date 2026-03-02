@@ -165,6 +165,8 @@ huggingface-cli download Shuberman/SimMotion-Real --repo-type dataset --local-di
 | SimMotion-Synthetic | 250 | static_object, dynamic_attribute, dynamic_object, view, scene_style |
 | SimMotion-Real | 40 | real-world videos |
 
+**License:** The SimMotion datasets are released for research purposes only.
+
 ### Evaluate Your Method
 
 Benchmark your own video embedder on SimMotion:

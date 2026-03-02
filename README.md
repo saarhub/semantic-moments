@@ -219,4 +219,5 @@ Results are saved as JSON:
 
 ## License
 
-MIT
+- **Code:** MIT License
+- **SimMotion Datasets:** For research purposes only

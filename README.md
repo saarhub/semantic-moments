@@ -24,7 +24,7 @@ This project uses [`uv`](https://github.com/astral-sh/uv), a modern Python packa
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/semantic-moments.git
+git clone https://github.com/saarhub/semantic-moments.git
 cd semantic-moments
 
 # Install uv (if not already installed)

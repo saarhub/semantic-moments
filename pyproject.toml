@@ -32,7 +32,7 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/YOUR_USERNAME/semantic-moments"
+"Homepage" = "https://github.com/saarhub/semantic-moments"
 "Paper" = "https://arxiv.org/abs/2602.09146"
 
 [tool.setuptools.packages.find]
